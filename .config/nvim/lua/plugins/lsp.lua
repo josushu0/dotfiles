@@ -14,8 +14,8 @@ return {
 						plugins = {
 							{
 								name = "@vue/typescript-plugin",
-								location = "/home/josue/.local/share/pnpm/global/5/node_modules/@vue/typescript-plugin",
-								languages = { "javascript", "typescript", "vue" },
+								location = "/home/josue/.local/share/nvim/mason/packages/vue-language-server/node_modules/@vue/language-server",
+								languages = { "vue" },
 							},
 						},
 					},
