@@ -30,4 +30,9 @@ return {
 			},
 		},
 	},
+	{
+		"dmmulroy/ts-error-translator.nvim",
+		version = "*",
+		event = "LazyFile",
+	},
 }
