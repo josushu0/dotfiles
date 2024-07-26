@@ -23,6 +23,7 @@
 - [eza](https://github.com/eza-community/eza)
 - [bat](https://github.com/sharkdp/bat)
 - [stow](https://www.gnu.org/software/stow/)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 Clone repository and execute the following commands to use fish config.
 
