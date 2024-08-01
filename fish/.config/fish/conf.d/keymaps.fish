@@ -1,0 +1,1 @@
+bind \et toggle-theme
