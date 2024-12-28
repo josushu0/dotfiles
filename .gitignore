@@ -1,4 +1,4 @@
 fish/.config/fish/fish_variables
 fish/.config/fish/functions/fundle.fish
 fish/.config/fish/fundle/**
-/zellij/.config/zellij/plugins
+zellij/.config/zellij/plugins
