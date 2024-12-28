@@ -1,6 +1,7 @@
 # Josushu0's Starship prompt configuration
 
 ## Modules
+
 - Username
 - Hostname
 - Directory
@@ -9,6 +10,7 @@
 ## Installation
 
 ### Requirements
+
 - [starship](https://starship.rs/)
 - [stow](https://www.gnu.org/software/stow/)
 

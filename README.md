@@ -1,21 +1,23 @@
 # Josushu0's dotfiles
 
-![Screenshot of wezterm terminal](https://github.com/user-attachments/assets/fb6e033c-4344-416d-8ba2-c685ae499082)
+![Screenshot of ghostty terminal](https://github.com/user-attachments/assets/1620bfee-ce8c-4295-a445-1ed71ece51a4)
 
 ## Configs
 
-- [wezterm](https://github.com/josushu0/dotfiles/tree/main/wezterm/.config/wezterm)
+- [ghostty](https://github.com/josushu0/dotfiles/tree/main/ghostty/.config/ghostty)
 - [fish](https://github.com/josushu0/dotfiles/tree/main/fish/.config/fish)
 - [starship](https://github.com/josushu0/dotfiles/tree/main/starship/.config/starship)
+- [zellij](https://github.com/josushu0/dotfiles/tree/main/zellij/.config/zellij)
 
 ## Installation
 
 ### Requirements
+
 Enter each config to see requirements.
 
 Clone repository and execute the following commands with the configs you want to use.
 
 ```console
 cd dotfiles
-stow fish wezterm starship
+stow fish ghostty starship zellij
 ```
