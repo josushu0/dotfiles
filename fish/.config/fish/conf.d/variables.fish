@@ -4,7 +4,6 @@ set -gx STARSHIP_CONFIG $HOME/.config/starship/starship.toml
 set -gx DENO_INSTALL $HOME/.deno
 set -gx BUN_INSTALL $HOME/.bun
 
-
 # PATH #
 fish_add_path -aP $HOME/.cargo/bin
 fish_add_path -aP $HOME/.local/bin
