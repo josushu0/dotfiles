@@ -1,8 +1,8 @@
 initial-command = fish
 shell-integration = fish
-font-family = Dank Mono
-font-size = 13
-theme = light:rose-pine-dawn,dark:rose-pine
+font-family = Monaspace Neon
+font-size = 12
+theme = light:catppuccin-latte,dark:catppuccin-mocha
 gtk-titlebar = false
 window-padding-x = 5
 window-padding-y = 4
